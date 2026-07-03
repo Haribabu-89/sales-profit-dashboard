@@ -30,7 +30,8 @@ This project explores order-level retail data to uncover sales and profit trends
 ## Files
 
 - `Sales&Profit Dashboard.twbx` — packaged Tableau workbook (open with Tableau Desktop or Tableau Public)
-- `screenshot.png` — dashboard preview (add your exported image here)
+- `screenshot.png` — dashboard preview (<img width="800" height="403" alt="screenshot" src="https://github.com/user-attachments/assets/bf58c692-5d61-4ca4-8e33-113d8a3b0b3b" />
+)
 
 ## How to View
 
