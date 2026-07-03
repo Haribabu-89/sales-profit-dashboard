@@ -38,9 +38,8 @@ This project explores order-level retail data to uncover sales and profit trends
 2. Open `Sales&Profit Dashboard.twbx`
 3. Explore the Bar Chart, Dual-Axis Line Chart, and Filled Map — click any mark to cross-filter the other views
 
-## Author
+## Connect
 
-**K Haribabu** — Data Analyst
 - **LinkedIn:** [linkedin.com/in/k-haribabu-1160a42bb](https://linkedin.com/in/k-haribabu-1160a42bb)
 - **GitHub:** [github.com/Haribabu-89](https://github.com/Haribabu-89)
-- **Portfolio:** [haribabu-89.github.io](https://haribabu-89.github.io
+- **Portfolio:** [haribabu-89.github.io](https://haribabu-89.github.io)
