@@ -41,4 +41,6 @@ This project explores order-level retail data to uncover sales and profit trends
 ## Author
 
 **K Haribabu** — Data Analyst
-[LinkedIn](https://linkedin.com/in/k-haribabu-1160a42bb) | [GitHub](https://github.com/Haribabu-89) | [Portfolio](https://haribabu-89.github.io)
+- **LinkedIn:** [linkedin.com/in/k-haribabu-1160a42bb](https://linkedin.com/in/k-haribabu-1160a42bb)
+- **GitHub:** [github.com/Haribabu-89](https://github.com/Haribabu-89)
+- **Portfolio:** [haribabu-89.github.io](https://haribabu-89.github.io
